@@ -8,7 +8,7 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My second and final milestone was finishing the code that allows the robot arm to move. The arm has two modes: potentiometer mode, where the arm's movement can be directly controlled via potentiometers, as well as auto mode, where the arm follows a pre-written set of instructions. Since during auto mode, the servo moved too quickly, I wrote a method that allows for the servos to move more smoothly. I also removed the support I added because it added too much weight to the robotic arm, causing for it to be unable to return to an upright posititon.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FdlcW692-zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 # First Milestone
