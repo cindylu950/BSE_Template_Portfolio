@@ -11,6 +11,7 @@ I built a 3-jointed robotic arm that can pick up objects. Its movement can be co
 My second and final milestone was finishing the code that allows the robot arm to move. The arm has two modes: potentiometer mode, where the arm's movement can be directly controlled via potentiometers, as well as auto mode, where the arm follows a pre-written set of instructions. Since during auto mode, the servo moved too quickly, I wrote a method that allows for the servos to move more smoothly. I also removed the support I added because it added too much weight to the robotic arm, causing for it to be unable to return to an upright posititon.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/FdlcW692-zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 # First Milestone
   
 
