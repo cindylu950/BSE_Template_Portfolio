@@ -1,5 +1,5 @@
 ﻿# 3-Joint Robotic Arm with Claw
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+I built a 3-jointed robotic arm that can pick up objects. Its movement can be controlled via potentiometers, but it can also enter a mode where it follows a set of pre-written instructions in order to pick up an object and set it down elsewhere.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
