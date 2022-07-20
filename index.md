@@ -5,7 +5,7 @@ I built a 3-jointed robotic arm that can pick up objects. Its movement can be co
 |:--:|:--:|:--:|:--:|
 | Cindy Lu | BASIS Independent Silicon Valley | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://photos.app.goo.gl/yqERXMFGrnpGvCxY7)
+![Headstone Image](https://user-images.githubusercontent.com/93630610/180076692-09a52651-ce25-47d0-995a-c32d05a88228.png)
 
 
   
