@@ -1,11 +1,11 @@
 <img align = "right" src = "https://user-images.githubusercontent.com/93630610/180515604-3aa1e344-9047-42bb-81f5-785e7c99995c.png">
-# 3-Joint Robotic Arm with Claw
+<p align = "left"> # 3-Joint Robotic Arm with Claw
 
 I built a 3-jointed robotic arm that can pick up objects. Its movement can be controlled via potentiometers, but it can also enter a mode where it follows a set of pre-written instructions in order to pick up an object and set it down elsewhere.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Cindy L. | BISV | Electrical Engineering | Incoming Junior
+| Cindy L. | BISV | Electrical Engineering | Incoming Junior </p>
 
 ![Headstone Image](https://user-images.githubusercontent.com/93630610/180076692-09a52651-ce25-47d0-995a-c32d05a88228.png)
 
