@@ -25,6 +25,7 @@ My first milestone was finishing assembling the robot arm. I followed the instru
 
 # Bill of Materials
 Adeept Robotic Arm Kit x 1 (https://www.amazon.com/dp/B087R8DLG6)
+
 Arduino IDE (https://www.arduino.cc/en/software)
 
 # Final Code
