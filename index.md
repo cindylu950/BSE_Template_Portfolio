@@ -24,7 +24,8 @@ My first milestone was finishing assembling the robot arm. I followed the instru
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aSILAIQVK5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 # Final Code
-` #include <Wire.h>
+```
+#include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #define OLED_RESET     4
@@ -192,4 +193,5 @@ void updateDisplay() {
   String text = "# moved: " + String(finCount);
   display.print(text);
   display.display();
-}'
+}
+```
