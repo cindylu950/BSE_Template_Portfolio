@@ -1,7 +1,7 @@
 ﻿# 3-Joint Robotic Arm with Claw
 I built a 3-jointed robotic arm that can pick up objects. Its movement can be controlled via potentiometers, but it can also enter a mode where it follows a set of pre-written instructions in order to pick up an object and set it down elsewhere.
 
-<right>![image](https://user-images.githubusercontent.com/93630610/180515604-3aa1e344-9047-42bb-81f5-785e7c99995c.png)</right>
+<img align = "right" src = "https://user-images.githubusercontent.com/93630610/180515604-3aa1e344-9047-42bb-81f5-785e7c99995c.png"> </img>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
