@@ -23,6 +23,9 @@ My first milestone was finishing assembling the robot arm. I followed the instru
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/aSILAIQVK5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+# Bill of Materials
+Adeept Robotic Arm Kit x 1 (https://www.amazon.com/dp/B087R8DLG6)
+
 # Final Code
 ```
 #include <Wire.h>
