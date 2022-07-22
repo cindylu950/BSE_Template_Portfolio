@@ -200,3 +200,13 @@ void updateDisplay() {
   display.display();
 }
 ```
+
+# Some Tips for Recreating This Project
+
+- Make sure your servos are correctly set to 90 before you start assembling. Also, try not to change the servo positions on accident while you build the robot arm.
+- The plastic pieces of the arm can and will break. Make sure to handle the pieces with care. Although the set provides some replacement parts, it doesn't provide a replacement for EVERY piece.
+- One of the servo wires is a bit too short, which will limit the movement of your arm. That's what the servo extension cord the set provides is for!
+- The robot arm can barely carry its own weight, so for objects to pick up, try something light like foam.
+- Some of the servos tend to overheat due to having to carry a lot of weight. If you notice a servo is hot to the touch, or there is a burning smell coming from it, power off the device and let it sit until the servo returns to room temperature.
+- If something goes wrong, don't stress it. Test everything that could be causing it to go wrong, one at a time. You'll get to the answer eventually.
+- Have fun, and good luck!
